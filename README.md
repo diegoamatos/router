@@ -33,13 +33,13 @@ SimpSyst é um conjunto de pequenos e otimizados componentes PHP para tarefas co
 Router is available via Composer:
 
 ```bash
-"simpsyst/router": "^1.0"
+"simpsyst/router": "dev-main"
 ```
 
 or run
 
 ```bash
-composer require simpsyst/router
+composer require simpsyst/router:dev-main
 ```
 
 ## Documentation
